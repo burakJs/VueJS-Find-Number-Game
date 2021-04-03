@@ -1,0 +1,30 @@
+#app{
+	text-align: center;
+	margin:0 auto;
+	font-style: italic;
+	font-size: bolder;
+}
+input{
+	width: 150px;
+	font-size: 50px;
+	text-align: center;
+}
+button{
+	width: 150px;
+	height: 75px;
+	font-size: 25px;
+	font-style: italic;
+}
+#sonuc{
+	color: black;
+}
+#ihtimal{
+	width: 200px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+#ihtimal div{
+	height: 20px;
+	background: red;
+}
